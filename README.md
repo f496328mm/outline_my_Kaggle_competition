@@ -1,4 +1,6 @@
-# outline_my_Kaggle_competition
+# outline my Kaggle competition
+e-mail : samlin266118@gmail.com <br>
+
 
 # [Grupo Bimbo Inventory Demand, NO.156/top 8%](https://github.com/f496328mm/kaggle_Grupo_Bimbo_Inventory_Demand)<br>
 # [Rossmann Store Sales, NO.315%/top 10](https://github.com/f496328mm/kaggle_Rossmann_Store_Sales)<br>
